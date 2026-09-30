@@ -65,6 +65,54 @@ Six-module platform for Zambian schools. Offline-first architecture with SQLite 
 
 👉 [Live Demo](https://school.simztech.site)
 
+**Stack:** Django · Python · MySQL · SQLite · Raspberry Pi · Bootstrap
+
+---
+
+### 💼 SimzJob — Job Platform for Zambia
+
+**PHP · Laravel · MySQL**
+
+A job platform designed to make recruitment more accessible and affordable for companies while helping job seekers easily discover opportunities that match their skills and career goals. Features employer profiles, job postings, applications, and search by category and location.
+
+👉 [Live Demo](https://job.simztech.site)
+
+**Stack:** PHP · Laravel · MySQL · Bootstrap
+
+---
+
+### 🎥 SimzStream — Video Streaming Platform
+
+**PHP · Laravel · MySQL**
+
+Full-featured video streaming platform where creators can create accounts, upload videos, and engage with viewers. Viewers can watch, like, comment, and subscribe to creators.
+
+👉 [Live Demo](https://stream.simztech.site)
+
+**Stack:** PHP · Laravel · MySQL · Bootstrap · JavaScript
+
+---
+
+### 🛒 SimzTech Store — E-Commerce Platform
+
+**PHP · Laravel · MySQL**
+
+Fully functional e-commerce platform showcasing and selling products offered through SimzTech. Includes product catalog, shopping cart, checkout, order tracking, and admin management.
+
+👉 [Live Demo](https://store.simztech.site)
+
+**Stack:** PHP · Laravel · MySQL · Bootstrap · JavaScript
+
+---
+
+### 🎨 PySide6 Desktop Applications
+
+**Python · PySide6 · SQLite · DeepSeek API**
+
+Desktop applications built with PySide6, including **SimzChat** — a full-featured AI chat client integrating with the DeepSeek API for real-time streaming conversations, voice input, file upload with OCR, and SQLite-backed persistent chat history with full-text search.
+
+**Stack:** Python · PySide6 · SQLite · REST APIs · OCR · Multi-threading
+
 ---
 
 ## 🛠️ Tech Stack
@@ -87,6 +135,9 @@ Git · GitHub Actions · Docker · Maven · Serilog · FluentValidation · Linux
 **IoT & Embedded:**
 ESP32 · Arduino · SIM800L GSM · GPS · Raspberry Pi · Sensor Fusion
 
+**Desktop:**
+PySide6 · SQLite · REST APIs · OCR · Multi-threading
+
 ---
 
 ## 📊 GitHub Stats
@@ -97,16 +148,19 @@ ESP32 · Arduino · SIM800L GSM · GPS · Raspberry Pi · Sensor Fusion
 
 ---
 
-## 🌟 Portfolio
+## 🌟 Complete Portfolio
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | **ZedBank** | Core banking with double-entry ledger | Java · Spring Boot · MySQL | [Repo](https://github.com/siamewilliams/zedbank) |
 | **MineOps** | Offline-first mining operations | .NET 8 · EF Core · SQLite · MySQL | [Repo](https://github.com/siamewilliams/mineops) |
+| **Fire Alert System** | IoT fire detection & dispatch | ESP32 · PHP · MySQL | — |
 | **School Management** | 6-module school platform | Django · Python · MySQL | [Live](https://school.simztech.site) |
-| **SimzJob** | Job platform | Laravel · MySQL | [Live](https://job.simztech.site) |
-| **SimzStream** | Video streaming | Laravel · MySQL | [Live](https://stream.simztech.site) |
-| **SimzTech Store** | E-commerce | Laravel · MySQL | [Live](https://store.simztech.site) |
+| **SimzJob** | Job platform for Zambia | Laravel · MySQL | [Live](https://job.simztech.site) |
+| **SimzStream** | Video streaming platform | Laravel · MySQL | [Live](https://stream.simztech.site) |
+| **SimzTech Store** | E-commerce platform | Laravel · MySQL | [Live](https://store.simztech.site) |
+| **SimzChat** | Desktop AI chat client | Python · PySide6 · SQLite | — |
+| **Rockview Portal** | University student management | Laravel · MySQL | [Live](https://rockspace.rockviewuniversity.ac) |
 
 ---
 
