@@ -1,6 +1,6 @@
 # Hi there, I'm William Siame 👋
 
-### Software Engineer · Enterprise Backend · .NET, Java & IoT Systems
+### Software Engineer · Enterprise Backend · .NET,PHP,JAVASCRIPT, Java & IoT Systems
 
 **Building enterprise-grade systems for banking, mining, and public health in Zambia 🇿🇲**
 
