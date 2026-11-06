@@ -1,6 +1,6 @@
 # Hi there, I'm William Siame 👋
 
-### Software Engineer · Enterprise Backend · .NET,PHP,JAVASCRIPT, Java & IoT Systems and AI/Machine learning
+### Software Engineer · Enterprise Backend · .NET · PHP · JavaScript · Java · IoT · AI & Machine Learning
 
 **Building enterprise-grade systems for banking, mining, and public health in Zambia 🇿🇲**
 
@@ -16,6 +16,7 @@ Currently at **Rockview University** as Software Developer & IT Support Administ
 
 - 🔭 Currently building: Enterprise systems with **Spring Boot** and **.NET Core**
 - 🌱 Learning: **Temenos T24** and **Oracle Flexcube** (core banking platforms)
+- 🤖 Exploring: **Machine Learning, Deep Learning, PyTorch, and AI engineering**
 - 💬 Ask me about: **Java, Spring Boot, C#, .NET, SQL, REST APIs, offline-first architecture**
 - 📫 Reach me: **siamewilliam10@gmail.com**
 
@@ -105,11 +106,39 @@ Fully functional e-commerce platform showcasing and selling products offered thr
 
 ---
 
-### 🎨 PySide6 Desktop Applications
+## 🖥️ Python Desktop Applications
+
+### 📝 SimzWord — Desktop Word Processor
+
+**Python · PySide6 · Qt**
+
+A professional desktop word processor designed to provide rich-text document creation and editing capabilities.
+
+Features include document formatting, tables, images, charts, hyperlinks, headers, footers, page numbers, watermarks, spell checking, find and replace, printing, and document export to PDF, DOCX, and HTML.
+
+👉 [View Repository](https://github.com/siamewilliams/SimzWord)
+
+**Stack:** Python · PySide6 · Qt · QtPrintSupport · QtPdf
+
+---
+
+### 🔳 SimzQR Code — QR Code Generator
+
+**Python · PySide6 · qrcode · Pillow**
+
+A desktop QR code generator with a graphical interface for creating QR codes using Python. Designed to make QR code generation straightforward and accessible through a dedicated desktop application.
+
+👉 [View Repository](https://github.com/siamewilliams/SimzQR-Code)
+
+**Stack:** Python · PySide6 · qrcode · Pillow
+
+---
+
+### 🤖 SimzChat — AI Desktop Chat Application
 
 **Python · PySide6 · SQLite · DeepSeek API**
 
-Desktop applications built with PySide6, including **SimzChat** — a full-featured AI chat client integrating with the DeepSeek API for real-time streaming conversations, voice input, file upload with OCR, and SQLite-backed persistent chat history with full-text search.
+A full-featured AI chat client integrating with the DeepSeek API for real-time streaming conversations, voice input, file upload with OCR, and SQLite-backed persistent chat history with full-text search.
 
 **Stack:** Python · PySide6 · SQLite · REST APIs · OCR · Multi-threading
 
@@ -118,24 +147,35 @@ Desktop applications built with PySide6, including **SimzChat** — a full-featu
 ## 🛠️ Tech Stack
 
 **Languages:**
+
 Java 21 · C# (.NET 8) · Python · PHP · JavaScript · C++ · SQL
 
 **Backend:**
+
 Spring Boot 3 · ASP.NET Core · Laravel · Django
 
 **Frontend:**
+
 React · Next.js · React Native · Thymeleaf · Razor Views · Bootstrap · Tailwind CSS
 
 **Databases:**
+
 MySQL · SQL Server · SQLite · PostgreSQL · EF Core · JPA/Hibernate · Flyway
 
+**AI & Machine Learning:**
+
+PyTorch · Scikit-learn · OpenCV · NumPy · Pandas · Deep Learning · Computer Vision
+
 **DevOps & Tools:**
+
 Git · GitHub Actions · Docker · Maven · Serilog · FluentValidation · Linux
 
 **IoT & Embedded:**
+
 ESP32 · Arduino · SIM800L GSM · GPS · Raspberry Pi · Sensor Fusion
 
 **Desktop:**
+
 PySide6 · SQLite · REST APIs · OCR · Multi-threading
 
 ---
@@ -159,6 +199,8 @@ PySide6 · SQLite · REST APIs · OCR · Multi-threading
 | **SimzJob** | Job platform for Zambia | Laravel · MySQL | [Live](https://job.simztech.site) |
 | **SimzStream** | Video streaming platform | Laravel · MySQL | [Live](https://stream.simztech.site) |
 | **SimzTech Store** | E-commerce platform | Laravel · MySQL | [Live](https://store.simztech.site) |
+| **SimzWord** | Desktop word processor | Python · PySide6 | [Repo](https://github.com/siamewilliams/SimzWord) |
+| **SimzQR Code** | Desktop QR code generator | Python · PySide6 · Pillow | [Repo](https://github.com/siamewilliams/SimzQR-Code) |
 | **SimzChat** | Desktop AI chat client | Python · PySide6 · SQLite | — |
 | **Rockview Portal** | University student management | Laravel · MySQL | [Live](https://rockspace.rockviewuniversity.ac) |
 
@@ -166,7 +208,10 @@ PySide6 · SQLite · REST APIs · OCR · Multi-threading
 
 ## 🎓 Education
 
-**BSc in Information and Communication Technology**
+**Master of Science in Information and Communication Technology (MSICT)**  
+Rockview University, Zambia · In Progress
+
+**BSc in Information Communication Technology**  
 Rockview University, Zambia · 2018 – 2022
 
 ---
